@@ -8,3 +8,5 @@ Update 7/2/2018: Today, we corrected an error in the ppd_complaint_complainants_
 Update 7/20/2018: We have learned that, while the City has not been updating the data posted directly to Open Data Philly, it has been making small updates to the data stored on Carto. Subscribers to the City's data page on Open Data Philly are not notified of these updates, and so we do not know precisely when they occured. Since our initial post of data available in March 2018, the City has added data on 99 new complaints. In March 2018, the latest CAP was numbered 18-0042. Now, the latest is numbered 18-0141.
 
 We have notified the City of the error with updating the Open Data Philly data, as well as their error in switching the complainant_age and complainant_initials column data. 
+
+Update 9/3/18: No data have been posted for August 2018 because the City did not post any new data that month, either on Open Data Philly or on Carto. 

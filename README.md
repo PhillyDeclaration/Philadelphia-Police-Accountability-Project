@@ -10,3 +10,5 @@ Update 7/20/2018: We have learned that, while the City has not been updating the
 We have notified the City of the error with updating the Open Data Philly data, as well as their error in switching the complainant_age and complainant_initials column data. 
 
 Update 9/3/18: No data have been posted for August 2018 because the City did not post any new data that month, either on Open Data Philly or on Carto. 
+
+Update 10/1/18: No data have been posted for September 2018 because the City did not post any new data that month, either on Open Data Philly or on Carto.
